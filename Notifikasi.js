@@ -19,6 +19,7 @@
 	_pushassist.linkUrl		= "";
 	_pushassist.ipaddress	= "";
 	_pushassist.safariWebsitePushId = "web.com.pushassist.push";
+_pushassist.branding = '<div class=\"pushassist_noti_branding top_right psa_animated psa_fadeInUp\" id=\"pushassist_notification_inner_wraper\"> <div class=\"pushassist_noti_branding_inner_wraper\"> </div></div>';
 	_pushassist.brandingFlag = 0;
 	_pushassist.intervalTime = 3;
 
