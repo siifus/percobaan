@@ -18,8 +18,7 @@
 	_pushassist.assetsURL	= "https://cdn.pushassist.com/account";
 	_pushassist.linkUrl		= "";
 	_pushassist.ipaddress	= "";
-	_pushassist.safariWebsitePushId = "web.com.pushassist.push";
-_pushassist.branding = '<div class=\"pushassist_noti_branding top_right psa_animated psa_fadeInUp\" id=\"pushassist_notification_inner_wraper\"> <div class=\"pushassist_noti_branding_inner_wraper\"> </div></div>';
+	_pushassist.branding = '<div class=\"pushassist_noti_branding top_right psa_animated psa_fadeInUp\" id=\"pushassist_notification_inner_wraper\"> <div class=\"pushassist_noti_branding_inner_wraper\"> <a href=\"javascript:void(0)\" id=\"psa_ssl_branding\" class=\"pushassist_noti_branding_close\"></a> <a class=\"pushassist_noti_branding_message\" target=\"_blank\" href=\"#\"> <span class=\"pushassist_noti_branding_txt\">Notifications Powered By</span> <img src=\"#"> <span class=\"pushassist_noti_branding_brandname\"></span> </a> </div></div>';
 	_pushassist.brandingFlag = 0;
 	_pushassist.intervalTime = 3;
 
